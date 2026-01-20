@@ -1,5 +1,5 @@
 # expectile-factor
-The source code for simulations and real data analyses included in the paper 'Tail-oriented Factor Models Using Expectiles' is available. For the real data analysis, two economic datasets are used: the CRSP monthly stock return data and the FRED-MD data.
+The source code for simulations and real data analyses included in the paper 'Tail-oriented Factor Models Using Expectiles' is available. For the real data analyses, two economic datasets are used: the CRSP monthly stock return data and the FRED-MD data.
 
 ## Overview
 - `EFM algorithm.R`: It is a code for functions that estimate expectile factor model. 

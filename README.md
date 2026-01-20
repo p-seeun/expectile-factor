@@ -5,7 +5,7 @@ This repository provides the source code for simulations and real data analyses 
 - `EFM algorithm.R`: It is a code for functions that estimate expectile factor model. 
 - `QFM algorithm.R`: It is a code that implements algorithms of quantile factor model proposed by Chen et al.(2021).
 - Simulations
-  - This folder includes two R code files that generate the simulation results for section 4.1 and section 4.2, respectively.
+  - This folder includes two R code files that generate the simulation results for Section 4.1 and Section 4.2, respectively.
 - Real_data_Sec5.1
   - This folder includes codes that are needed to analyze CRSP monthly stock return data in Section 5.1. Unfortunately, the dataset is not freely available, but many institutions have access to WRDS, which provides CRSP data. The code assumes that the monthly stock return data of 1,382 stocks, from January 2004 to December 2023, are saved as 'CRSP(240months).rds'.
   - `Factor_num.R` : It estimates the number of factors of EFM and QFM across different levels.

@@ -13,7 +13,7 @@ This repository provides the source code for simulations and real data analyses 
   - `Compute_R2.R` : It computes the adjusted $R^2$ values and generates all results presented in Figures 2 and 3.
 - Real_data_Sec5.2
   - This folder includes codes for empirical applications using FRED-MD dataset in Section 5.2.
-  - 'Get FRED-MD' : It processes the panel data of FRED-MD data from the raw data `2024-06.csv`, and the results are saved as `FRED-MD.rds`.
+  - `Get FRED-MD.R` : It processes the panel data of FRED-MD data from the raw data `2024-06.csv`, and the results are saved as `FRED-MD.rds`.
   - `Factor_num.R` : It estimates the number of factors of EFM across different levels.
   - `Get_EFM_estimators.R` : The factors from EFM of different levels on each rolling-window data are estimated and saved as .rds files in the folder `EFM_estimators`.
   - `Forecast_using_EFM.R` : The main code that forecasts the industrial production index and derives results in Table 6.
